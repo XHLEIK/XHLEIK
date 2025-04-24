@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Subham Bose
+**A passionate Web-developer**
+
+Email Me 👉 ✉️ **subhooo224@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Nezto(Laundry service booking app) , MediSmart(Ai based smart healthcare system).
+- 🌱 **I’m currently learning:** Full-stack Development
+- 👯 **I’m looking to collaborate on:** MediSmart
+- 🤔 **I’m looking for help with:** Ai Smart Calculator
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** subhooo224@gmail.com
+- 😄 **Pronouns:** He/Him(❁´◡`❁)
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/suvam.bose629) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhambose36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subham-bose-ba4130350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhooo224@gmail.com) 
