@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=250&section=header&text=Subham+Bose&fontSize=45&fontColor=000000&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=250&section=header&text=Subham+Bose&fontSize=45&fontColor=000000&animation=fadeIn" 
+       alt="Banner" 
+       style="width:850px; max-width:100%;"/>
 </p>
+
 <h1 align="center" style="color:#ffffff">👋 Hi, I'm <span style="color:#00ffff">Subham</span></h1>
 <h3 align="center" style="color:#aaaaaa">🚀 Backend Developer | MERN Enthusiast | Quick Learner</h3>
 
@@ -34,12 +37,11 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/https://www.facebook.com/suvam.bose629"><img src="https://img.icons8.com/ios-filled/30/00FFFF/facebook-new.png"/></a>
-  <a href="https://instagram.com/https://www.instagram.com/subhambose36/"><img src="https://img.icons8.com/ios-filled/30/ff69b4/instagram-new.png"/></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-bose-ba4130350/"><img src="https://img.icons8.com/ios-filled/30/00FFFF/linkedin.png"/></a>
-  <a href="mailto:subhooo224@gmail.com"><img src="https://img.icons8.com/ios-filled/30/D14836/gmail.png"/></a>
+  <a href="https://facebook.com/https://www.facebook.com/suvam.bose629" class="social-icon"><img src="https://img.icons8.com/ios-filled/50/00FFFF/facebook-new.png"/></a>
+  <a href="https://instagram.com/https://www.instagram.com/subhambose36/" class="social-icon"><img src="https://img.icons8.com/ios-filled/50/ff69b4/instagram-new.png"/></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-bose-ba4130350/" class="social-icon"><img src="https://img.icons8.com/ios-filled/50/00FFFF/linkedin.png"/></a>
+  <a href="mailto:subhooo224@gmail.com" class="social-icon"><img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png"/></a>
 </p>
-
 
 # 💻 Tech Stack
 
@@ -58,21 +60,21 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=XHLEIK&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=XHLEIK&theme=jolly&hide_border=false" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHLEIK&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XHLEIK&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" style="width:850px;"/><br/>
+ <img src="https://nirzak-streak-stats.vercel.app/?user=XHLEIK&theme=jolly&hide_border=false" style="height:200px; margin-right:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHLEIK&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height:200px;"/>
 </p>
 <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=XHLEIK&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" style="display:inline-block;"/>
-</p>
-
-
-<p align="center">
+  <!-- Contributor Stats -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=XHLEIK&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" style="width:850px; margin-bottom:10px;"/><br/>
+  
   <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="width:850px;"/>
+</p>
+
+
   <!-- Visit Count -->
 
-</p>
 
 
 
