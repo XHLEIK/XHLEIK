@@ -1,33 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on Cash-Mate (Finance Management Backend)<br>🌱 I’m currently learning Frontend(React)<br>🤝 I’m looking for help with backend projects and deployments<br>👯 I’m looking to collaborate on open-source, backend, and MERN projects<br>💬 Ask me about Backend(Node.js)<br>⚡ Fun fact I’ve built projects ranging from a laundry booking app to AI-powered face recognition
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=250&section=header&text=Subham+Bose&fontSize=45&fontColor=000000&animation=fadeIn" alt="Banner" />
+</p>
+<h1 align="center" style="color:#ffffff">👋 Hi, I'm <span style="color:#00ffff">Subham</span></h1>
+<h3 align="center" style="color:#aaaaaa">🚀 Backend Developer | MERN Enthusiast | Quick Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;MERN+Stack+Developer;BCA+Student;Node.js+%7C+Express+%7C+MongoDB;Turning+ideas+into+code" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subham&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
+  <a href="https://twitter.com/subhooo224">
+    <img src="https://img.shields.io/twitter/follow/subhooo224?logo=twitter&style=flat-square&color=00acee" />
+  </a>
+</p>
+<h1 align="left">💡 <b>About Me</b></h1>
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJiY3g2Z3JuNG1wcXQ4ODFjOWNoYTMyZnlpMnNod2d4OWw0d3YzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="coding" width="380"/>
+
+- 🔭 Currently working on: **💰 Cash-Mate (Finance Management Backend)**
+- 🌱 Learning: **⚛️ Frontend (React) & ☁️ Cloud Deployment**
+- 🤝 Collaborating on: **🌍 Open-source & MERN Stack Projects**
+- 💬 Ask me about: **🟢 Node.js, ⚡ Express, 🍃 MongoDB, 💻 JavaScript**
+- 💼 Portfolio: [📂 GitHub Projects](https://github.com/XHLEIK)
+- 📫 Reach me: **📧 subhooo224@gmail.com**
+- ⚡ Fun fact: I’ve built projects like  
+   - 🧺 **Nezto (Laundry Booking App)**  
+   - 🏥 **MediSmart (Smart Healthcare System)**  
+   - 🤖 **AI-powered Face Recognition System**
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/suvam.bose629) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/subhambose36/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subham-bose-ba4130350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhooo224@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/https://www.facebook.com/suvam.bose629"><img src="https://img.icons8.com/ios-filled/30/00FFFF/facebook-new.png"/></a>
+  <a href="https://instagram.com/https://www.instagram.com/subhambose36/"><img src="https://img.icons8.com/ios-filled/30/ff69b4/instagram-new.png"/></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-bose-ba4130350/"><img src="https://img.icons8.com/ios-filled/30/00FFFF/linkedin.png"/></a>
+  <a href="mailto:subhooo224@gmail.com"><img src="https://img.icons8.com/ios-filled/30/D14836/gmail.png"/></a>
+</p>
+
+
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nodejs,express,mongodb,mysql,postgres,angular,tailwind,figma,python,php,c,cpp,opencv,git,github,vite,bootstrap,vercel,firebase,aws&theme=dark" />
+</p>
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<p align="center">
+  <!-- Trophies and Top Contributed Repo on same line -->
+  <img src="https://github-profile-trophy.vercel.app/?username=XHLEIK&theme=algolia&no-frame=false&no-bg=false&margin-w=4" style="display:inline-block; margin-right:10px;"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=XHLEIK&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=XHLEIK&theme=jolly&hide_border=false" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHLEIK&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="display:inline-block;"/>
+</p>
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=XHLEIK&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" style="display:inline-block;"/>
+</p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XHLEIK&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=XHLEIK&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XHLEIK&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="display:inline-block; margin-right:10px;"/>
+  <!-- Visit Count -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=XHLEIK&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=XHLEIK&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=XHLEIK&icon=4&color=3)](https://visitcount.itsvg.in)
+<p align="center" style="color:#888888">
+  Made with ❤️ by <strong style="color:#00FFFF">Subham Bose</strong> | Powered by ☕ It Self
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
