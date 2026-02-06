@@ -25,7 +25,7 @@
 - 🌱 Learning: **⚛️ Frontend (React) & ☁️ Cloud Deployment**
 - 🤝 Collaborating on: **🌍 Open-source & MERN Stack Projects**
 - 💬 Ask me about: **🟢 Node.js, ⚡ Express, 🍃 MongoDB, 💻 JavaScript**
-- 💼 Portfolio: [📂 GitHub Projects](https://github.com/XHLEIK)
+- 💼 Portfolio: [Click to open my portfolio]([https://github.com/XHLEIK](https://subham-bose-portfolio.vercel.app/))
 - 📫 Reach me: **📧 subhooo224@gmail.com**
 - ⚡ Fun fact: I’ve built projects like  
    - 🧺 **Nezto (Laundry Booking App)**  
