@@ -1,4 +1,5 @@
 {
+  "username": "XHLEIK",
   "widgets": [
     {
       "instanceId": "widget_1788289599494",
@@ -13,7 +14,7 @@
         "height": 90
       },
       "config": {},
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 1
     },
@@ -26724,5 +26725,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
