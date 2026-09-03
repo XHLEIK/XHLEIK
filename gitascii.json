@@ -20518,6 +20518,117 @@
       "locked": false,
       "visible": true,
       "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788441890577",
+      "widgetId": "godprofile-trophies",
+      "name": "Godprofile-trophies Widget",
+      "position": {
+        "x": 0,
+        "y": 1080
+      },
+      "size": {
+        "width": 800,
+        "height": 280
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1788441976228",
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 0,
+        "y": 1376
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1788441990335",
+      "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
+      "position": {
+        "x": 400,
+        "y": 1376
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1788442007961",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 1602
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1788442021669",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 0,
+        "y": 1868
+      },
+      "size": {
+        "width": 416,
+        "height": 240
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1788442061412",
+      "widgetId": "premium-ascii-insights",
+      "name": "Premium-ascii-insights Widget",
+      "position": {
+        "x": 400,
+        "y": 1848
+      },
+      "size": {
+        "width": 400,
+        "height": 280
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
     }
   ],
   "globalStyles": {
