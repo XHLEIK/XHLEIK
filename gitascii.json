@@ -20332,7 +20332,7 @@
       "name": "Asciiprofile-heatmap Widget",
       "position": {
         "x": 4,
-        "y": 568
+        "y": 872
       },
       "size": {
         "width": 792,
@@ -20368,12 +20368,12 @@
       "widgetId": "premium-ascii-profile-card",
       "name": "Premium-ascii-profile-card Widget",
       "position": {
-        "x": 368,
-        "y": 78
+        "x": 360,
+        "y": 74
       },
       "size": {
-        "width": 432,
-        "height": 432
+        "width": 440,
+        "height": 440
       },
       "config": {
         "lockAspectRatio": true,
@@ -20381,7 +20381,19 @@
         "backgroundColor": "transparent",
         "accentColor": "#3fb950",
         "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
+        "borderColor": "#30363d",
+        "customRoles": "Full Stack Web-Developer, Technical Support Engineer, Android Developer",
+        "hideMetrics": [
+          "followers"
+        ],
+        "selectedRepos": [
+          "Hisab",
+          "Arise2.0",
+          "PHE"
+        ],
+        "langsCount": 5,
+        "showLocation": false,
+        "showWebsite": false
       },
       "locked": false,
       "visible": true,
@@ -20393,18 +20405,119 @@
       "name": "Godprofile-marquee Widget",
       "position": {
         "x": 0,
-        "y": 472
+        "y": 770
       },
       "size": {
         "width": 800,
         "height": 120
       },
       "config": {
-        "accentColor": "#b6a891"
+        "accentColor": "#b6a891",
+        "marqueeLangs": [
+          "react",
+          "ts",
+          "js",
+          "html",
+          "css",
+          "nodejs",
+          "python",
+          "git",
+          "docker",
+          "linux",
+          "py",
+          "c",
+          "java",
+          "php",
+          "kotlin",
+          "nextjs",
+          "tailwind",
+          "bootstrap",
+          "flutter",
+          "express",
+          "fastapi",
+          "postgres",
+          "mongodb",
+          "mysql",
+          "redis",
+          "supabase",
+          "sqlite",
+          "github",
+          "azure",
+          "vercel",
+          "netlify",
+          "vscode",
+          "nginx",
+          "apache",
+          "npm",
+          "pnpm"
+        ]
       },
       "locked": false,
       "visible": true,
       "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1788441269340",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 702
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "linkedin",
+          "x",
+          "instagram",
+          "gmail",
+          "portfolio"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788441344181",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 4,
+        "y": 506
+      },
+      "size": {
+        "width": 792,
+        "height": 188
+      },
+      "config": {
+        "textAlign": "left",
+        "customBio": "Technical Support Engineer and Backend/Full-Stack Developer skilled in Node.js, Fastify, MongoDB, Redis, Kafka, React.js, and Next.js. Experienced in building scalable, real-time applications and troubleshooting production systems, with projects in AI, fintech, and distributed systems. Passionate about building real-world products and scalable technology from scratch."
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788441683354",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 754
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
