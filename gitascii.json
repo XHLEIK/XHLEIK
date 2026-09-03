@@ -20595,16 +20595,50 @@
       "name": "Readme-quotes Widget",
       "position": {
         "x": 0,
-        "y": 1868
+        "y": 1860
       },
       "size": {
-        "width": 416,
-        "height": 240
+        "width": 402,
+        "height": 350
       },
       "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1788442276539",
+      "widgetId": "winxp-taskbar",
+      "name": "Winxp-taskbar Widget",
+      "position": {
+        "x": 0,
+        "y": 2226
+      },
+      "size": {
+        "width": 800,
+        "height": 48
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788442323880",
+      "widgetId": "ghstats",
+      "name": "Ghstats Widget",
+      "position": {
+        "x": 410,
+        "y": 1860
+      },
+      "size": {
+        "width": 390,
+        "height": 350
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
     }
   ],
   "globalStyles": {
