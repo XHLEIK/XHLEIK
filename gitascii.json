@@ -1,5 +1,4 @@
 {
-  "username": "XHLEIK",
   "widgets": [
     {
       "widgetId": "asciiprofile-portrait",
@@ -11554,6 +11553,5 @@
     "themeMode": "dark",
     "templateStyle": "ascii_native"
   },
-  "templateId": "ascii_native",
-  "profileSlug": "default"
+  "templateId": "ascii_native"
 }
